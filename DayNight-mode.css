@@ -1,0 +1,21 @@
+h1  {   font-size: 40px;    }
+h2  {   font-size: 30px;    }
+p   {   font-size: 20px;    }
+
+button  {
+    width: 250px;
+    height: 30px;
+    font-size: 18px;
+}
+
+#word   {   color: red; }
+#word.night {   color: blue;    }
+
+body.daytonight {   
+    background-color: black;
+    color: white;
+  }
+
+.hidden {
+    display: none;
+}
